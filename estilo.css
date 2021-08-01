@@ -16,6 +16,10 @@ box-shadow:5px 5px 15px rgba(0, 0, 0, 0.575);
 color: rgb(75, 71, 71);
 
 }
+div{
+    text-align: center;
+    padding: center;
+}
 footer{
     color: white;
     text-align: center;
